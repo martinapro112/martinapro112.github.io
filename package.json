@@ -1,7 +1,7 @@
 {
-  "name": "timezones",
+  "name": "@martinapro112/martinapro112.github.io",
   "version": "2.0.0",
-  "private": true,
+  "private": false,
   "author": "Martina Prochazkova",
   "dependencies": {
     "dateformat": "^3.0.3",
